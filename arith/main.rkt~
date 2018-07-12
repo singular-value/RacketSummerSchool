@@ -1,0 +1,14 @@
+#lang s-exp "arith.rkt"
+(+ 1 3)
+#f
+#false
+#true
+#t
+"hello world"
+"cool"
+(- 5 12)
+(* 3 33)
+(/ 99 3)
+(square 3)
+(sqrt 25)
+(conjugate 3-4i)

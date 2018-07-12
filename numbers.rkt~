@@ -1,0 +1,5 @@
+#lang racket
+
+(define my-favorite-number 17)
+
+(provide my-favorite-number)

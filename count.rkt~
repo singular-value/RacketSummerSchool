@@ -1,0 +1,5 @@
+#lang racket
+
+(require "myfavoritenumber.rkt")
+
+(my-favorite-number)
